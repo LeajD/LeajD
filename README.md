@@ -30,7 +30,7 @@ I'm Piotr,
 - 🏆 Kubernetes Certified Administrator (CKA) - (ongoing)
 - 🏆 [Credly](https://www.credly.com/users/piotr-kikowski/)  
 
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username)
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LeajD)
 
 ## 📝 Blog & Articles  
 🔗 [no-articles-yet]
