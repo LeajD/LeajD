@@ -19,7 +19,8 @@ I'm Piotr,
 - **[AWS-Projects](https://github.com/LeajD/AWS-Projects)** – blue/green deployments, eks, exposed apps, serverless stepfunction for transaction data analytics  
 - **[Kubernetes](https://github.com/LeajD/K8s)** – k8s manifests, helm, cluster from scratch  
 - **[Linux](https://github.com/LeajD/Linux)** – kernel compilation, administrative tasks, os overview, lvm
-- **[CI/CD](https://github.com/LeajD/CI-CD)** – gitlab ci-cd and jenkins pipelines to build artifacts 
+- **[CI/CD](https://github.com/LeajD/CI-CD)** – gitlab ci-cd and jenkins pipelines to build artifacts
+
 //bash and python scipts are included in above projects
 
 ## 📜 Certifications  
