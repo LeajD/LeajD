@@ -16,14 +16,11 @@ I'm Piotr,
 
 
 ## 🚀 Projects  
-- **[AWS-Projects](https://github.com/LeajD/AWS-Projects)** – blue/green deployments, eks, exposed apps, serverless apps  
+- **[AWS-Projects](https://github.com/LeajD/AWS-Projects)** – blue/green deployments, eks, exposed apps, serverless stepfunction for transaction data analytics  
 - **[Kubernetes](https://github.com/LeajD/K8s)** – k8s manifests, helm, cluster from scratch  
 - **[Linux](https://github.com/LeajD/Linux)** – kernel compilation, administrative tasks, os overview, lvm
 - **[CI/CD](https://github.com/LeajD/CI-CD)** – gitlab ci-cd and jenkins pipelines to build artifacts 
-- **[Infrastructure as Code](https://github.com/LeajD/Terraform)** – terraform infra for AWS
-- **[Scripting](https://github.com/LeajD/Scripting)** – bash and python
-- **[Data analytics](https://github.com/LeajD/Other)** – Apache NiFi and Kafka
-
+//bash and python scipts are included in above projects
 
 ## 📜 Certifications  
 - 🏆 AWS Certified DevOps Engineer - Professional  
