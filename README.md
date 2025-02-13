@@ -8,7 +8,7 @@ I'm Piotr,
 🔹 **Containerization:** Docker, Kubernetes  
 🔹 **CI/CD:** GitLab CI/CD, Jenkins  
 🔹 **GitOps:** ArgoCD  
-🔹 **Linux** CentOS distro  
+🔹 **Linux:** CentOS distro  
 🔹 **Infrastructure as Code:** Terraform, Ansible  
 🔹 **Monitoring:** Prometheus, Grafana, ELK Stack  
 🔹 **Scripting:** Bash, Python  
