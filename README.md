@@ -27,6 +27,8 @@ Cybersecurity Master degree
 ## 📜 Certifications  
 - 🏆 AWS Certified DevOps Engineer - Professional  
 - 🏆 Kubernetes Certified Administrator (CKA) - (ongoing)
+- 🏆 Azure Security Engineer Associate AZ-500 (2020)
+- 🏆 CCNA Routing and Switching, CCNA Security, CCNA 3, CCNA 4 (2019) 
 - 🏆 [Credly](https://www.credly.com/users/piotr-kikowski/)  
 
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LeajD)
