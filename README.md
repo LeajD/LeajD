@@ -31,7 +31,7 @@ Cybersecurity Master degree
 - 🏆 CCNA Routing and Switching, CCNA Security, CCNA 3, CCNA 4 (2019) 
 - 🏆 [Credly](https://www.credly.com/users/piotr-kikowski/)  
 
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LeajD)
+![Language Stats]([https://github-readme-stats.vercel.app/api/top-langs/?username=LeajD])
 
 ## 📝 Blog & Articles  
 🔗 [no-articles-yet]
