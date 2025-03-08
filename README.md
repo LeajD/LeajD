@@ -17,16 +17,18 @@ Cybersecurity Master degree
 
 
 ## 🚀 Projects  
-- **[AWS-Projects with Terraform](https://github.com/LeajD/AWS-Projects)** – 1) Production EKS with monitoring, automation and cost optimization 2) blue/green deployments via AWS CI/CD 3) Serverless data analytics ... load balancing, AWS Config, WAF, CloudFront, Transit Gateway, AWS Kafka, AWS gitops (ArgoCD)  
-- **[Kubernetes](https://github.com/LeajD/K8s)** – k8s manifests, helm, cluster from scratch  
-- **[Linux](https://github.com/LeajD/Linux)** – kernel compilation, administrative tasks, os overview, lvm
-- **[CI/CD](https://github.com/LeajD/CI-CD)** – gitlab ci-cd and jenkins pipelines to build artifacts, best practices for Docker and Jenkins
+- **[AWS-Projects with Terraform](https://github.com/LeajD/AWS-Projects)** 
+- **[Kubernetes](https://github.com/LeajD/K8s)** 
+- **[Linux](https://github.com/LeajD/Linux)** 
+- **[CI/CD](https://github.com/LeajD/CI-CD)**
+- **[Ansible](https://github.com/LeajD/Ansible)** 
+
 
 //bash and python scipts are included in above projects
 
 ## 📜 Certifications  
-- 🏆 AWS Certified DevOps Engineer - Professional  
-- 🏆 Kubernetes Certified Administrator (CKA) - (ongoing)
+- 🏆 AWS Certified DevOps Engineer - Professional (2025)
+- 🏆 Kubernetes Certified Administrator (CKA) (2025)
 - 🏆 Azure Security Engineer Associate AZ-500 (2020)
 - 🏆 CCNA Routing and Switching, CCNA Security, CCNA 3, CCNA 4 (2019) 
 - 🏆 [Credly](https://www.credly.com/users/piotr-kikowski/)  
