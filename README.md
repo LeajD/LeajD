@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Piotr,  
 Cybersecurity Master degree
-🚀 DevOps Engineer, AWS DevOps Engineer Professional, Certified Kubernetes Administrator (during preparation)  
+🚀 DevOps Engineer, AWS DevOps Engineer Professional, Certified Kubernetes Administrator  
 
 
 ## 🛠️ Tech Stack  
