@@ -24,7 +24,7 @@ Cybersecurity Master degree
 - **[Ansible](https://github.com/LeajD/Ansible)** 
 
 
-//bash and python scipts are included in above projects
+//bash and python scipts are included in above projects!
 
 ## 📜 Certifications  
 - 🏆 AWS Certified DevOps Engineer - Professional (2025)
