@@ -5,7 +5,7 @@ Cybersecurity Master degree
 
 
 ## 🛠️ Tech Stack  
-🔹 **Cloud:** AWS  
+🔹 **Cloud:** AWS, GCP  
 🔹 **Containerization:** Docker, Kubernetes  
 🔹 **CI/CD:** GitLab CI/CD, Jenkins  
 🔹 **GitOps:** ArgoCD  
